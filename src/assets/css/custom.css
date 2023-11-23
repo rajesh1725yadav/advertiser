@@ -1,0 +1,64 @@
+.card-bordered{border-radius: 5px}
+.is-light .nk-menu-link, .nk-menu-icon, .nk-tb-list{color: #3d3d3d}
+.nk-tb-head {background: #bf4343; border: 0}
+.nk-tb-head .sub-text{color: #fff}
+.custom-stats{border-radius: 0px}
+.custom-stats .nk-tb-list{padding: 0 0}
+.nk-tb-head .nk-tb-col{color: #fff}
+.nk-tb-col{padding: .4rem 0.5rem;}
+.f-table{background: #fff !important;}
+.custom-strip:nth-child(2n+1) {background: #fff2f2;}
+.sub-text{color: #6f6f70}
+.cmr-2{margin-right: 20px}
+.c-text-dark{color: rgb(100, 99, 99)}
+.bg-custom{background: #f2b453}
+.bg-theme{ background: #bf4343;}
+.modal-header{background: #bf4343;}
+.modal-header .modal-title {color: #fff}
+.modal-header .close{color: #fff; opacity: 1;}
+.modal-header{padding: .6rem 1.5rem;}
+.nk-reply-form-header{padding: 0 .8rem;}
+.custom-border{border: 1px solid #bbb;}
+.nk-reply-form-header{border-bottom: 0px}
+.nk-reply-form-tools{border-top: none; padding-left: 0px !important}
+textarea::placeholder, input::placeholder{color: #727373 !important;}
+.h-25{height:25px}
+.css-yk16xz-control{border-radius:0 !important}
+.nk-reply-form-field:not(:last-child){border-bottom: 1px solid #bbb;}
+.react-select__control{border: 1px solid #bbb !important;}
+.nk-reply-form-group{padding: .7rem 0;}
+.nk-reply-form-field{padding: 0.5rem .6rem;}
+.lead-text{color: #3c3c3d;}
+.nk-reply-header .nk-reply-desc{color: #c7c7c7;}
+.nk-reply-avatar{background:yellow}
+.c-l-border{border-left: 3px solid #bf4343;}
+.c-p-5{padding: .5rem}
+.c-p-1{padding: 1rem}
+.card-header{background-color: rgb(191, 67, 67);color: #fff;}
+.tb-tnx-item td{padding: .5rem 0.25rem;}
+.tb-tnx-head{background: #BF4343;}
+.tb-tnx-head th{color: #fff;}
+button .ni-edit-alt{font-size: inherit !important}
+.overline-title{letter-spacing: 1px;color: #2d2d2d;}
+.nav-tabs .nav-link{padding: .6rem 0;}
+.overline-title-alt{letter-spacing: .06rem;}
+.custom-info .data-label{font-weight: bold; color: #000}
+.link-list-menu a, .link-list-menu a .icon{color: #242424;}
+.table {color: #313131;}
+.overline-title{font-size: 12px;}
+.c-campaign .icon{color: #bf4343}
+.pro2-msg::after{border-color: transparent #BF4343;}
+.pro2-msg{background-color: #BF4343;}
+.img-outer{border: 2px solid #BF4343;}
+.nk-wizard-simple .steps ul li h5{color: #444445;}
+.nk-footer-copyright {color: #5e5e5e;}
+.text-soft {color: #545455 !important}
+.nk-block-des {color: #4f5050;}
+.badge-dim.badge-success{color: #0e936f;}
+.badge-dim.badge-warning {color: #ca9e10;}
+.nk-tb-item:not(:last-child) .nk-tb-col {border-bottom: 1px solid #ebebeb;}
+.overline-title-alt{color: #515151;}
+.text-white{color:#fff}
+.invoice-no{padding: 8px 8px 8px 30px;}
+.c-text-light{color: #757575 !important;}
+
